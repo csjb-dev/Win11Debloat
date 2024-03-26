@@ -1,6 +1,7 @@
 # The apps below this line WILL be uninstalled. If you wish to KEEP any of the apps below
 #  simply add a # character in front of the specific app in the list below.
 #
+*Dell*
 *Clipchamp.Clipchamp*
 *Microsoft.3DBuilder*
 *Microsoft.549981C3F5F10*   #Cortana app
@@ -36,6 +37,9 @@
 *Microsoft.ZuneVideo*
 *MicrosoftCorporationII.MicrosoftFamily*   # Family Safety App
 *MicrosoftTeams*   # Only removes the personal version (MS Store), does not remove business/enterprise version of teams
+*Microsoft.OutlookForWindows*            # New mail app: Outlook for Windows
+*Microsoft.People*                       # Required for & included with Mail & Calendar
+*Microsoft.windowscommunicationsapps*    # Mail & Calendar
 
 *ACGMediaPlayer*
 *ActiproSoftwareLLC*
@@ -115,11 +119,8 @@
 #  launching the script with the specific parameters found in the README.md file. 
 #
 #*Microsoft.GamingApp*                    # Modern Xbox Gaming App, required for installing some PC games
-#*Microsoft.OutlookForWindows*            # New mail app: Outlook for Windows
-#*Microsoft.People*                       # Required for & included with Mail & Calendar
 #*Microsoft.PowerAutomateDesktop*
 #*Microsoft.RemoteDesktop*
-#*Microsoft.windowscommunicationsapps*    # Mail & Calendar
 #*Microsoft.XboxGameOverlay*              # Game overlay, required/useful for some games
 #*Microsoft.XboxGamingOverlay*            # Game overlay, required/useful for some games
 #*Windows.DevHome*
